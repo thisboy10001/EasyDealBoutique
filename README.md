@@ -30,6 +30,7 @@
     </style>
 </head>
 <body>
-    <h1>It's Your Fucking Crazy Boy💀 TrueManno</h1>
+    <h1>Byenvini✨👋</h1>
+    <button><a href="index.html">Klike pou kontinye</a></button>
 </body>
 </html>
